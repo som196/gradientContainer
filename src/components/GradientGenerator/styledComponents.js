@@ -62,8 +62,6 @@ export const LabelElement = styled.p`
   margin: 20px;
 `
 export const InputColor = styled.input`
-  height: 35px;
-  width: 60px;
   padding: 0px;
   border-style: none;
 `
